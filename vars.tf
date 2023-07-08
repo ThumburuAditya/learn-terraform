@@ -21,3 +21,5 @@ variable "sample_dict"{
     boolean = true
   }
 }
+
+variable "env"{}
